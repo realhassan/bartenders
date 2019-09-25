@@ -9,7 +9,7 @@
     <Grid>
         <Button Content="Met Alcohol" HorizontalAlignment="Left" Margin="250,209,0,0" VerticalAlignment="Top" Width="93" Height="79"/>
         <Button Content="Zonder Alcohol" HorizontalAlignment="Left" Margin="550,209,0,0" VerticalAlignment="Top" Width="93" Height="79"/>
-        <Label Content="Welkom bij de zelf scan kassa" HorizontalAlignment="Left" Margin="310,70,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI Black"/>
+        <Label Content="Welkom bij de zelf scan kassa" HorizontalAlignment="Left" Margin="305,70,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI Black"/>
 
     </Grid>
 </Window>
